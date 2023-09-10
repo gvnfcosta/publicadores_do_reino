@@ -3,7 +3,8 @@
 ## 📚 Documentação 
 
 Aplicativo para uso dos membros das congregações das Testemunhas de Jeová.
-Construi este app sozinho a base de aulas online que me ajudaram a desenvolver e avançar a medida que novos desafios surgiam. E projeto está em desenvolvimento e tem recebido melhorias gradativamente.
+Construi este app praticamente sozinho (mas quando precisei contei com a ajuda do meu amigo Bipo que deu ótimas sugestões e contribuiu com algumas melhorias)
+Comecei faznedo a base de aulas online que me ajudaram a desenvolver e avançar a medida que novos desafios surgiam. E projeto está em desenvolvimento e tem recebido melhorias gradativamente.
 Resolvi fazer deste App meu primeiro projeto de estudo há cerca de um ano atrás, a princípio fornecia apenas as informações das reuniões.
 A medida que fui pegando habilidade com a prograemação Flutter o App foi sendo aprimorado. 
 Hoje vejo a necessidade de melhorar muita coisa ainda na construção do código, em especial separar melhor as responsabilidades de cada parte dele. Coisa que farei assim que posssível.
