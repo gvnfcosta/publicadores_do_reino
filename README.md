@@ -50,3 +50,5 @@ Para teste de segurança de dados os nomes dos membros foram criptografados na b
 |    Usuário    |  Senha  |
 |---------------|---------|
 |user@gmail.com | 123456  |
+
+## Este App foi disponibilizado sem qualquer custo para a Congregação que é parte de uma Organização sem fins lucrativos e de ajuda social educativa.
