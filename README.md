@@ -1,4 +1,4 @@
-# publicadores_do_reino
+# Parque Cambuí
 
 ## 📚 Documentação 
 
@@ -52,5 +52,5 @@ Para teste de segurança de dados os nomes dos membros foram criptografados na b
 |user@gmail.com | 123456  |
 
 ## Este App foi disponibilizado sem qualquer custo para a Congregação que é parte de uma Organização sem fins lucrativos e de ajuda social educativa.
-Atualmente está sendo utilizado por quase 50 usuários.
+Atualmente está sendo utilizado por mais de 50 usuários.
 
